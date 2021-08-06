@@ -1,0 +1,23 @@
+{
+  "name": "altarofdestiny_api",
+  "version": "1.0.0",
+  "description": "API for AltarOfDestiny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nihiss-dev/AltarOfDestiny_api.git"
+  },
+  "author": "Nihiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nihiss-dev/AltarOfDestiny_api/issues"
+  },
+  "homepage": "https://github.com/Nihiss-dev/AltarOfDestiny_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
